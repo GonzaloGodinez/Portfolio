@@ -20,6 +20,8 @@ This project emphasis the use of the architecture of any web page using aligned 
 ![Bottom Section](./assets/images/ContactMe.png)
 ![footer Section](./assets/images/Footer.png)
 
+[Link to live deploy Marketing Refactoring deploy](https://gonzalogodinez.github.io/refactoring_marketing_agency/)
+
 ## License
 MIT License
 
@@ -43,3 +45,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ---
+
+
+[[Link to live deploy](https://gonzalogodinez.github.io/refactoring_marketing_agency/)]: ./Assets/02-advanced-css-homework-demo.gif
