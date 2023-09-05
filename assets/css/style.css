@@ -1,0 +1,194 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* Body margins */
+body {
+    background-color: #d9dcd6;
+  /*  width: 100%;
+    height: auto;
+    padding: 2%; */
+}
+/* Header Profile title inline with profile tabs */
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 25px;
+    width: 100%;
+}
+/* Header settings */
+.header h1{
+    width: 37%;
+    background-color: aquamarine;
+}
+.header nav{
+    width: 63%;
+}
+/* header content showing profile tabs */
+.header nav {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 1%;
+    background-color: bisque;
+    }
+/* Profile Image */
+.header img {
+   /* display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;*/
+    width: 100px;
+    height: auto;
+}
+/* layout content */
+.layout {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.layout aside {
+    width: 20%;
+    }
+.layout section {
+    width: 80%;
+}    
+.layout ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.image { 
+    display: flex;
+}
+/* Hobbies */
+.header h2 {
+    width: 100%;
+    display: flex;
+   /*  flex-wrap: wrap;
+    flex-direction: row; */
+    margin-right: 20px;
+    float: right;
+    background-color: aquamarine;
+    font-size: 20px;
+}
+.content {
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+footer {
+    width: 100%;
+    background-color: green;
+    padding: 2%;
+}
+/* Main work frame */
+main {
+    width: 100%;
+    background-color: grey;
+    padding: 2%;
+}
+/* Work Content  */
+aside {
+    width: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: chartreuse;
+    padding: 2%;
+}
+section {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 1%;
+    background-color: grey;
+}
+ 
+/* Surf content and image */
+.SurfReport {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+    padding: 2%;
+    margin-top: 20px;  
+}
+.SurfReport img {
+    max-height: 200px;
+}
+.float-full {
+    flood-opacity: 0%;
+    width: 100%;
+}
+.float-left {
+    float: left;
+    margin-right: 25px;
+    width: 15%;
+}
+.float-right {
+    width: 15%;
+}
+/* LEDWall content and image */
+.LEDWall img {
+    max-height: 200px;
+}
+.LEDWall {
+    margin-top: 20px;
+    font-size: 36px;
+}
+/* Calculator content and image */
+.Calculator img {
+    max-height: 200px;
+}
+.Calculator {
+    margin-top: 20px;
+    font-size: 36px;
+}
+/* Puzzle content and image */
+.PastelPuzzels img {
+    max-height: 200px;
+}
+.PastelPuzzels {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Run Buddy content and image */
+.RunBuddy img {
+    max-height: 200px;
+}
+.RunBuddy {
+    margin-top: 20px;
+    font-size: 36px;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    align-items: center;
+}
+
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: brown;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+@media (max-width: 768px) {
+
+}   
