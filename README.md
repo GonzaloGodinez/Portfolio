@@ -1,6 +1,6 @@
 # Portfolio
 
-[Link to live deploy](https://gonzalogodinez.github.io/portfolio/)
+[link to live deploy Portfolio](https://github.com/gonzalogodinez/portfolio)
 
 ## Description
 As a Developer, I created this project to show case for my skills by introducing my work as HTML CSS Full Stack Front End Web Developer.
