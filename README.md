@@ -1,6 +1,6 @@
 # Portfolio
 
-[link to live deploy Portfolio](https://github.com/gonzalogodinez/portfolio)
+[link to live deploy Portfolio](https://gonzalogodinez.github.io/portfolio/)
 
 ## Description
 As a Developer, I created this project to show case for my skills by introducing my work as HTML CSS Full Stack Front End Web Developer.
@@ -20,7 +20,7 @@ This project emphasis the use of the architecture of any web page using aligned 
 ![Bottom Section](./assets/images/ContactMe.png)
 ![footer Section](./assets/images/Footer.png)
 
-[Link to live deploy Portfolio](https://github.com/gonzalogodinez/portfolio)
+[Link to live deploy Portfolio](https://gonzalogodinez.github.io/portfolio/)
 
 ## License
 MIT License
