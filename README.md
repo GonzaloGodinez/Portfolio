@@ -20,7 +20,7 @@ This project emphasis the use of the architecture of any web page using aligned 
 ![Bottom Section](./assets/images/ContactMe.png)
 ![footer Section](./assets/images/Footer.png)
 
-[Link to live deploy Portfolioy](https://github.com/gonzalogodinez/portfolio)
+[Link to live deploy Portfolio](https://github.com/gonzalogodinez/portfolio)
 
 ## License
 MIT License
