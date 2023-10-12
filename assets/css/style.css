@@ -117,7 +117,7 @@ section {
  
 /* Surf content and image */
 .SurfReport {
-    width: 80%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     background-color: yellow;
@@ -125,7 +125,8 @@ section {
     margin-top: 20px;  
 }
 .SurfReport img {
-    max-height: 200px;
+    width: 100%;
+    max-height: 100px;
 }
 .float-full {
     flood-opacity: 0%;
@@ -139,9 +140,28 @@ section {
 .float-right {
     width: 15%;
 }
+a img{
+    width: 100%;
+}
+.project{
+    position: relative;
+    height: 300px;
+    width: 250px;
+}
+.project-header {
+    position: absolute;
+    left: 0px;
+    bottom: 50px;
+}
+.project-p {
+    position: absolute;
+    left: 0px;
+    bottom: 25px;
+}
 /* LEDWall content and image */
 .LEDWall img {
-    max-height: 200px;
+    width: 100%;
+    max-height: 100px;
 }
 .LEDWall {
     margin-top: 20px;
@@ -149,7 +169,8 @@ section {
 }
 /* Calculator content and image */
 .Calculator img {
-    max-height: 200px;
+    width: 100%;
+    max-height: 100px;
 }
 .Calculator {
     margin-top: 20px;
